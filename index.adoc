@@ -30,11 +30,13 @@ Welcome the Monkey House
 * pagerduty
 
 .AsciiDoc
+* define
 
 .SASP
 * PostMark
 
 .Stripe Pay System (2020-10-14)
+* define
 
 .Security
 * Esti
@@ -50,13 +52,16 @@ Welcome the Monkey House
 * Kubernetes
 
 .Forseti
+* define
 
 .Firebase (2020-10-30)
 * API
 
 .Circut Breaker Pattern
+* define and review
 
 .OrbitalBus
+* define
 
 .Services Technology Stack (2020-10-14)
 * GitOps
@@ -75,6 +80,13 @@ Welcome the Monkey House
 ** async tests, `done` func
 
 .OpenAPI (2020-10-16)
+* define
+
 .AsyncAPI (2020-10-16)
+* define
+
 .Swagger
+* define
+
 .Terraform
+* define and explore
